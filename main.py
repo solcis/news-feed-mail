@@ -14,7 +14,7 @@ import feedparser
 # constants
 server_name = "smtp.gmail.com"  # google your email's provider smtp information
 port = 587
-username = "yourmail@gmail.com"  # this is the address you're gonna use to all_news your mails
+username = "yourmail@gmail.com"  # this is the address you're gonna use to send your mails
 password = "yourpassword"
 recipient = "yourothermail@gmail.com"  # if recipients are more than one, use a list here
 
