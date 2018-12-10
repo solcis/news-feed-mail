@@ -1,6 +1,6 @@
 ##### What it does
 
-With this simple script you can check for your favorite website's news and send them to your email address of to someone else.
+With this simple script you can check for your favorite website's news and send them to your email address or to someone else.
 
 ##### How it works
 
